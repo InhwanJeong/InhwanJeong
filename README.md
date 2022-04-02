@@ -1,6 +1,9 @@
-### Hi there 👋
+## Hi there 👋
+> Thank you for visiting my GitHub.
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=InhwanJeong)](https://github.com/anuraghazra/github-readme-stats)
+[![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://kinetic27.github.io/)](https://inhwanjeong.tistory.com/) 
+
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=InhwanJeong&bg_color=30,e96443,904e95&title_color=fff&text_color=faa)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **InhwanJeong/InhwanJeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
