@@ -1,6 +1,5 @@
 ## Hi there 👋
-> Thank you for visiting my GitHub.
-
+> Thank you for visiting my GitHub. 파이썬과 자바스크립트를 사랑하는 개발자입니다.
 [![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://kinetic27.github.io/)](https://inhwanjeong.tistory.com/) 
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=InhwanJeong&bg_color=30,e96443,904e95&title_color=fff&text_color=faa)](https://github.com/anuraghazra/github-readme-stats)
